@@ -1,5 +1,5 @@
 # Cofee&Company
-Coffee & Company é uma cafeteria moderna dedicada a proporcionar uma experiência única para os amantes de café e de ambientes acolhedores. Com um ambiente sofisticado e confortável, a Coffee & Company combina o melhor do café artesanal com um menu variado de delícias culinárias, criando o local perfeito para relaxar, trabalhar ou se encontrar com amigos.
+Coffee&Company é uma cafeteria moderna dedicada a proporcionar uma experiência única para os amantes de café e de ambientes acolhedores. Com um ambiente sofisticado e confortável, a Coffee & Company combina o melhor do café artesanal com um menu variado de delícias culinárias, criando o local perfeito para relaxar, trabalhar ou se encontrar com amigos.
 
 ## Descrição
 
