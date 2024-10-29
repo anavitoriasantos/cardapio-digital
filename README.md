@@ -22,4 +22,4 @@ O site oferece uma visualização clara e atraente do cardápio da cafeteria, pe
 
 1. **Clone o Repositório**:
    ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+   git clone https://github.com/anavitoriasantos/cardapio-digital
